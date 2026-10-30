@@ -1,0 +1,23 @@
+{
+  "name": "deadfiles",
+  "version": "1.0.0",
+  "description": "Trouve les fichiers JS/TS que plus aucun autre fichier n'importe.",
+  "type": "module",
+  "bin": {
+    "deadfiles": "index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "author": "Varhex by Ȥrk Team (https://varhex.com)",
+  "repository": "github:zrk-lol/deadfiles",
+  "keywords": [
+    "cli",
+    "varhex",
+    "zero-dependency"
+  ]
+}
